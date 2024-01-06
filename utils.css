@@ -1,0 +1,51 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background:red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+}
+.my-1{
+margin-top: 13px;
+margin-bottom: 13px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue{
+    color: rgb(241, 176, 54);
+}
+.btn{
+    padding: 7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    background-color: rgba(29,88,214);
+    cursor: pointer;
+}
+.text-center{
+    text-align: center;
+}
